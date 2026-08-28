@@ -1,0 +1,8 @@
+.DS_Store
+result
+result-*
+.direnv/
+
+.Rhistory
+.RData
+.Rproj.user/
