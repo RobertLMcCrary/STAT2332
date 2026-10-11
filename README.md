@@ -1,6 +1,6 @@
-# STATS
+# STATS2332 - Probability and Data Analysis
 
-Coursework for my statistics class, programmed in R.
+Coursework for STAT 2332 at Kennesaw State University, Fall 2026, programmed in R.
 
 ## Setup
 
@@ -26,3 +26,10 @@ Available inside the dev shell:
 | `fmt`  | Format code with styler |
 | `lint` | Lint code with lintr |
 | `test` | Run tests with testthat |
+
+## Structure
+
+- `course materials/` - notes, R code, lab handouts, and datasets from Brightspace, by chapter.
+- `testing/` - my own R scripts (see `testing/README.md`).
+
+See [COURSE_MATERIALS.md](COURSE_MATERIALS.md) for what was downloaded and what wasn't.
